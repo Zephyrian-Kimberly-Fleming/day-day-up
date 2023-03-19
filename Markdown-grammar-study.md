@@ -40,16 +40,28 @@ console.log(isWeekday(new Date(2021, 0, 10)));
 - 监测
 - 响应
 - 恢复
-## 1.6 网址链接
+
+## 1.6链接
+## 1.6.1 网址链接
 [链接内容]+(链接地址)  
 示例：  
 [github个人主页](https://github.com/)
-## 1.7 图片链接
-### 不显示图片
-[图片自定义名称]+(图片地址)
-示例：
+## 1.6.2 图片链接
+### 1.6.2.1 不显示图片  
+[图片自定义名称]+(图片地址)  
+示例: 
+[my-github-Profile picture](https://avatars.githubusercontent.com/u/127872034?s=400&u=3c7d102ff39b4ac8bcc5cd99e6a15d2c231c9d98&v=4)
 
+### 1.6.2.2 显示预览
+!+[图片自定义名称]+(图片地址)  
+示例: 
+![my-github-Profile picture](https://avatars.githubusercontent.com/u/127872034?s=400&u=3c7d102ff39b4ac8bcc5cd99e6a15d2c231c9d98&v=4)
 
+## 1.7 表格
+使用竖杠"|"和减号"——"来绘制表格
+示例：  
+|col1|col2|col3|
+|-|-|-|
 
 
 
