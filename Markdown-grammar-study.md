@@ -1,3 +1,5 @@
+
+[Markdown 官方教程参考链接](https://markdown.com.cn/extended-syntax/tables.html)
 # 1  文字编辑不部分
 ## 1.1 标题 “#”
 标题前#号加空格
@@ -58,10 +60,10 @@ console.log(isWeekday(new Date(2021, 0, 10)));
 ![my-github-Profile picture](https://avatars.githubusercontent.com/u/127872034?s=400&u=3c7d102ff39b4ac8bcc5cd99e6a15d2c231c9d98&v=4)
 
 ## 1.7 表格
-使用竖杠"|"和减号"——"来绘制表格
+使用竖杠"|"和减号"-"来绘制表格
 示例：  
 |col1|col2|col3|
 |-|-|-|
-
-
+|black|white|yellow|
+|blue|red|green|
 
