@@ -93,3 +93,7 @@ console.log(isWeekday(new Date(2021, 0, 10)));
 >
 >> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
+## 1.10 转义字符
+在字符前面添加反斜杠字符“\”
+示例：  
+这个\<br>不会换行
