@@ -14,7 +14,7 @@
 使用反引号"`"
 ### 1.4.1 部分内容"`"
 I can't connect my `critical assets` to the network because they would be exposed to attacks
-### 1.4.1 转义反引号 “`` ``”
+### 1.4.1 转义反引号 "`` ``"
 示例:  
  ``Use `code` in your Markdown file.``
 ### 1.4.2 围栏式代码块 "``` ```"
